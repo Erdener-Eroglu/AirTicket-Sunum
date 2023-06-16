@@ -22,4 +22,22 @@ Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
 
 ![anasayfa](https://github.com/Erdener-Eroglu/AirTicket/assets/113262359/0af9a744-4c85-4d73-9fbd-ea778c668025)
 ![ucuslar](https://github.com/Erdener-Eroglu/AirTicket/assets/113262359/6b2b1e14-b4bf-4b43-b2b7-f67a5719c323)
+![passengerinfo](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/f2b84eaa-3488-4984-8134-055aecb8ad31)
+![passengerinfo2](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/15daa768-8c7c-4515-aa97-0d372b5377ba)
+![ticket](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/0f86708a-34dc-400b-bac8-19955d315d2e)
+![ticket2](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/36615514-803e-4233-b0cf-827cd4371f5c)
+![companies](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/e0ce267d-7f83-4942-a7b6-3d4c855d41ae)
+![addcompany](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/2a6be180-b155-4feb-b173-05b9d83d890a)
+![airport](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/9973fa01-3c11-46f5-8849-7bc46c1951f5)
+![newAirport](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/4ca9478f-af51-42bd-9abe-02650e1ccfce)
+![flights](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/7b06a0a6-e969-4580-9998-c3877e490da4)
+![addnewflight](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/c6ebfb29-e7fc-4045-aaa9-12b8f22ef444)
+![planes](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/86420122-a9e5-4511-90ab-f0e52f27ee70)
+![newplane](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/5753c733-b3d9-4723-99e9-1d1185b22a39)
+![code4](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/96cfd98d-b19f-4c4a-9d8d-d6fcc29156ee)
+![code1](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/13b52542-4a3f-446c-a76a-f120c1330989)
+![code2](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/ab28defd-1deb-4c51-a8a5-86b750e2ea85)
+![code3](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/99011c91-8a00-4b18-ae18-132d89cd04d3)
+
+
 
