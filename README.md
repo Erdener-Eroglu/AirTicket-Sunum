@@ -31,7 +31,7 @@ Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
 ![airport](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/9973fa01-3c11-46f5-8849-7bc46c1951f5)
 ![newAirport](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/4ca9478f-af51-42bd-9abe-02650e1ccfce)
 ![flights](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/7b06a0a6-e969-4580-9998-c3877e490da4)
-![addnewflight](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/c6ebfb29-e7fc-4045-aaa9-12b8f22ef444)
+![ucusekle](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/4e25c8cf-18ce-42f5-b177-d6efc0e6bf33)
 ![planes](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/86420122-a9e5-4511-90ab-f0e52f27ee70)
 ![newplane](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/5753c733-b3d9-4723-99e9-1d1185b22a39)
 ![code4](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/96cfd98d-b19f-4c4a-9d8d-d6fcc29156ee)
