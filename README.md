@@ -20,8 +20,8 @@ Projenin tüm hakları ben Erdener Eroğlu'ya aittir. Burada projenin ekran resi
 
 Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
 
-
-
+![anasayfa](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/f5e1a3fb-6c1f-4fe6-ac8a-130d425b0428)
+![flights](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/326d3401-9fd6-4db6-9179-bbcf88942b93)
 ![passengerinfo](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/f2b84eaa-3488-4984-8134-055aecb8ad31)
 ![passengerinfo2](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/15daa768-8c7c-4515-aa97-0d372b5377ba)
 ![ticket](https://github.com/Erdener-Eroglu/AirTicket-Sunum/assets/113262359/0f86708a-34dc-400b-bac8-19955d315d2e)
